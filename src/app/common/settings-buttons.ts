@@ -152,11 +152,7 @@ export const SettingsButtonsGroups: SettingsButtonKey[][] = [
     'showTags',
   ],
   [ // 6 - Bottom tray
-    'showFreq',
     'showTagTray',
-    'showRelatedVideosTray',
-    'showRecentlyPlayed',
-    'showDetailsTray',
   ],
   [ // 7 - Layout
     'compactView',
